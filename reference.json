@@ -1,0 +1,46 @@
+
+// JSON tpms
+{
+   "BBSer":"AABBCC",
+   "Node":{
+      "serialId":"442120586680466",
+      "devName":"594038C9DA54",
+      "TEMP":25,
+      "PRESS":100,
+      "type":"TPMS"
+   }
+}
+
+// JSON pms
+{
+   "BBSer":"AABBCC",
+   "Node":{
+      "type":"PMS",
+      "serialId":"989374374301897",
+      "devName":"4B370D52A1FD",
+      "LAT":-7.3116357,
+      "LON":112.7758106,
+      "DRI":0,
+      "PB":0,
+      "GX":3.23,
+      "GY":-12.23,
+      "GZ":4.32,
+      "ENG":0
+   }
+}
+
+// JSON fms
+{
+   "BBSer":"AABBCC",
+   "Node":{
+      "type":"FMS",
+      "serialId":"453225601723583",
+      "devName":"A2835E3C494B", //isinya salah satu antara mac,imei, device id. 
+      "FS":20, //fuel state (dalam liter)
+      "CS":0 // cap State (1/0)
+   }
+}
+
+
+
+
